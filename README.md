@@ -35,7 +35,7 @@ cd market-risk-project
 
 # Install dependencies
 pip install pandas numpy matplotlib 
-
+```
 
 > ⚠️ **Note**: No specialized statistical packages used - all estimators coded manually per academic requirements.
 
