@@ -30,7 +30,7 @@ Advanced quantitative risk assessment platform featuring:
 ## 🚀 Quick Start
 ```bash
 # Clone repository
-git clone https://github.com/AxelPortier/market-risk-project.git
+git clone https://github.com/AxelPortier/Market_Risk_Project.git
 cd market-risk-project
 
 # Install dependencies
